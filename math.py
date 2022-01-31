@@ -8,7 +8,7 @@ def subtract(x,y):
 
 # Multiply implementation
 def multiply(x,y):
-    pass
+    return x*y              # in local main
 
 # Divide implementation
 def divide(x,y):
